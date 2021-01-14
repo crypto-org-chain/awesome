@@ -9,8 +9,14 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 ## Contents
 
 - [Node Implementations](#node-implementations)
-  - [Golang]
-- [Node Implementations](#node-implementations)
+- [Clients and Libraries](#clients-and-libraries)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+- [Wallets](#wallets)
+- [Indexings](#indexings)
+- [Dashboards](#dashboards)
+- [Node Monitoring](#node-monitoring)
+- [Documentations](#documentations)
 
 ## Node Implementations
 
