@@ -1,6 +1,6 @@
 # Awesome Crypto.com Chain
 
-Crypto.com Chain is the next generation public blockchain that enables transactions worldwide between people and businesses. It is a blockchain application built using [Cosmos SDK](https://cosmos.network/sdk) and [Tendermint](https://tendermint.com/), intended as a backbone for some of the existing and future Crypto.com ecosystem.
+[Crypto.com Chain](https://chain.crypto.com) is the next generation public blockchain that enables transactions worldwide between people and businesses. It is a blockchain application built using [Cosmos SDK](https://cosmos.network/sdk) and [Tendermint](https://tendermint.com/), intended as a backbone for some of the existing and future Crypto.com ecosystem.
 
 ## Contributing
 
