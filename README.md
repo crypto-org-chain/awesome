@@ -30,13 +30,13 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 ### Python
 
-- [crypto-com/pystarport]()
+- [crypto-com/pystarport](https://github.com/crypto-com/chain-main/tree/master/pystarport)
 - [crypto-com/chainlibpy](https://github.com/crypto-com/chainlibpy)
 
 ## Wallets
 
 ### Ledger
-- Official Application | [Source](https://github.com/crypto-com/ledger-crypto) | [Rust client](https://github.com/crypto-com/ledger-rs)
+- Official Application | [Source](https://github.com/LedgerHQ/app-cryptocom ) | [Rust client](https://github.com/crypto-com/ledger-rs)
 
 ## Indexings
 
