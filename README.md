@@ -14,6 +14,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
   - [Python](#python)
 - [Wallets](#wallets)
 - [Indexings](#indexings)
+- [Full Node Services](#full-node-services)
 - [Dashboards](#dashboards)
 - [Node Monitoring](#node-monitoring)
 - [Documentations](#documentations)
@@ -46,9 +47,17 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 - [Official Explorer](https://chain.crypto.com/explorer) | [Source](https://github.com/crypto-com/chain-indexing)
 
+## Full Node Services
+
+- [Alchemy](https://www.alchemyapi.io/crypto-dot-com)
+
 ## Dashboards
 
+- [SmartStake - Validator Historical Performance Analysis](https://cc.smartstake.io)
+
 ## Node Monitoring
+
+- [Validator Signing Check Telegram Bot](http://t.me/crossfirecheckerbot) | [Source](https://github.com/samueltayishere/crossfire-telegram-bot)
 
 ## Documentations
 
