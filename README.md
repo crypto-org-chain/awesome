@@ -46,6 +46,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 ## Block Explorers
 
 - [Official Explorer](https://chain.crypto.com/explorer) | [Source](https://github.com/crypto-com/chain-indexing)
+- [Big Dipper](https://explorer.nebkas.ro) | [Source](https://github.com/forbole/big-dipper)
 
 ## Full Node Services
 
