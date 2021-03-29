@@ -36,7 +36,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 ### Golang
 
-- [Utilities for Cosmos Transaction Decoding and Address Conversion](https://github.com/calvinlauyh/cosmosutils) by [calvinlauyh/cosmosutils](@calvinlauyh)
+- [Cosmos Utilities (Transaction Decoding, Address Conversion)](https://github.com/calvinlauyh/cosmosutils) by [calvinlauyh](https://github.com/calvinlauyh)
 
 ## Wallets
 
@@ -44,7 +44,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 - Official Application | [Source](https://github.com/LedgerHQ/app-cryptocom ) | [Rust client](https://github.com/crypto-com/ledger-rs)
 
 ### Keplr
-- [Simple Integration with Keplr Wallet](https://giansalex.github.io/cro-keplr/) by [@giansalex](https://github.com/giansalex) | [Source](https://github.com/giansalex/cro-keplr)
+- [Simple Integration with Keplr Wallet](https://giansalex.github.io/cro-keplr/) by [giansalex](https://github.com/giansalex) | [Source](https://github.com/giansalex/cro-keplr)
 
 ### Desktop Wallet
 - [Chain Desktop Wallet (Beta)](https://github.com/crypto-com/chain-desktop-wallet/releases) by Crypto.org | [Source](https://github.com/crypto-com/chain-desktop-wallet)
