@@ -34,10 +34,20 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 - [crypto-com/pystarport](https://github.com/crypto-com/chain-main/tree/master/pystarport)
 - [crypto-com/chainlibpy](https://github.com/crypto-com/chainlibpy)
 
+### Golang
+
+- [Utilities for Cosmos Transaction Decoding and Address Conversion](https://github.com/calvinlauyh/cosmosutils) by [calvinlauyh/cosmosutils](@calvinlauyh)
+
 ## Wallets
 
 ### Ledger
 - Official Application | [Source](https://github.com/LedgerHQ/app-cryptocom ) | [Rust client](https://github.com/crypto-com/ledger-rs)
+
+### Keplr
+- [Simple Integration with Keplr Wallet](https://giansalex.github.io/cro-keplr/) by [@giansalex](https://github.com/giansalex) | [Source](https://github.com/giansalex/cro-keplr)
+
+### Desktop Wallet
+- [Chain Desktop Wallet (Beta)](https://github.com/crypto-com/chain-desktop-wallet/releases) by Crypto.org | [Source](https://github.com/crypto-com/chain-desktop-wallet)
 
 ## Indexings
 
