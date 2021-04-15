@@ -58,6 +58,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 - [Official Explorer](https://chain.crypto.com/explorer) | [Source](https://github.com/crypto-com/chain-indexing)
 - [Big Dipper](https://explorer.nebkas.ro) hosted by [[ nebkas.ro ]](https://nebkas.ro) | [Source](https://github.com/forbole/big-dipper)
 - [LOOK](https://look.ping.pub/#/validator?chain=crypto-org-chain-mainnet-1)
+- [CDOScan](https://cdoscan.com)
 
 ## Full Node Services
 
