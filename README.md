@@ -71,6 +71,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 ## Node Monitoring
 
 - [Validator Signing Check Telegram Bot](http://t.me/crossfirecheckerbot) | [Source](https://github.com/samueltayishere/crossfire-telegram-bot)
+- [Validator Jails Monitoring Channel](https://t.me/cryptoorgchainjails) 
 
 ## Documentations
 
