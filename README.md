@@ -65,6 +65,11 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 - [Alchemy](https://www.alchemyapi.io/crypto-dot-com)
 
+
+## IDO Platforms
+
+- [DexPad](https://dexpad.io)
+
 ## Dashboards
 
 - [SmartStake - Validator Historical Performance Analysis](https://cc.smartstake.io)
