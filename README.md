@@ -70,6 +70,9 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 - [SmartStake - Validator Historical Performance Analysis](https://cc.smartstake.io)
 - [Defier - Validator Live Stats and Ranking](http://defier.eeldivad.com/)
 
+## AMM Dex
+- [CronaSwap - The first AMM dex on Crypto Cronos Chain](https://cronaswap.org/)
+
 ## Node Monitoring
 
 - [Validator Signing Check Telegram Bot](http://t.me/crossfirecheckerbot) | [Source](https://github.com/samueltayishere/crossfire-telegram-bot)
