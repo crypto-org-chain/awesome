@@ -65,6 +65,9 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 - [Alchemy](https://www.alchemyapi.io/crypto-dot-com)
 
+## AMM Dex
+- [Crodex - The most advanced FIRST AMM on the Cronos Sidechain](https://testnet.crodex.app)
+
 ## Dashboards
 
 - [SmartStake - Validator Historical Performance Analysis](https://cc.smartstake.io)
