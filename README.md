@@ -68,7 +68,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 ## Dashboards
 
 - [SmartStake - Validator Historical Performance Analysis](https://cc.smartstake.io)
-- [Defier - Validator Live Stats and Ranking](http://defier.eeldivad.com/)
+- [Defier - Validator Live Stats and Ranking](https://defier.net)
 
 ## Node Monitoring
 
