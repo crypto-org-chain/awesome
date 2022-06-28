@@ -63,7 +63,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 ## Full Node Services
 
-- [Alchemy](https://www.alchemyapi.io/crypto-dot-com)
+- [Alchemy](https://www.alchemy.com/crypto-org)
 
 ## Dashboards
 
