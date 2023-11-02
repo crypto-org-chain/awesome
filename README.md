@@ -73,4 +73,4 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 ## Disclaimer
 
-This is a community-driven repository. It does not reflect the views of Crypto.org. Under no circumstances will Crypto.org be liable for the impacts and losses created by using these projects.
+This is a community-driven repository. It does not reflect the views of Cronos POS Chain. Under no circumstances will Cronos POS Chain be liable for the impacts and losses created by using these projects.
