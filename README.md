@@ -1,6 +1,7 @@
-# Awesome Crypto.org Chain
+# Awesome Cronos POS Chain
 
-[Crypto.org Chain](https://crypto.org/) is the next generation public blockchain that enables transactions worldwide between people and businesses. It is a blockchain application built using [Cosmos SDK](https://cosmos.network/sdk) and [Tendermint](https://tendermint.com/), intended as a backbone for some of the existing and future Crypto.org ecosystem.
+[Cronos POS Chain](https://cronos-pos.org/) is the next-generation public blockchain that enables transactions worldwide between people and businesses. It is a blockchain application built using [Cosmos SDK](https://cosmos.network/sdk) and [Tendermint](https://tendermint.com/) with high speed and low fees, designed to be a public good that helps drive mass adoption of blockchain technology through use cases like Payments and NFTs.
+
 
 ## Contributing
 
@@ -55,29 +56,21 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 ## Block Explorers
 
-- [Official Explorer](https://chain.crypto.com/explorer) | [Source](https://github.com/crypto-com/chain-indexing)
-- [Big Dipper](https://explorer.nebkas.ro) hosted by [[ nebkas.ro ]](https://nebkas.ro) | [Source](https://github.com/forbole/big-dipper)
+- [Official Explorer](https://cronos-pos.org/explorer) | [Source](https://github.com/crypto-com/chain-indexing)
+- [Big Dipper](https://explorer.nebkas.ro) hosted by [[nebkas.ro]](https://nebkas.ro) | [Source](https://github.com/forbole/big-dipper)
 - [LOOK](https://look.ping.pub/#/validator?chain=crypto-org-chain-mainnet-1)
 - [CDOScan](https://cdoscan.com)
 - [Yummy Explorer](https://explorer.yummy.capital/)
-
-## Full Node Services
-
-- [Alchemy](https://www.alchemy.com/crypto-org)
 
 ## Dashboards
 
 - [SmartStake - Validator Historical Performance Analysis](https://cc.smartstake.io)
 - [Defier - Validator Live Stats and Ranking](https://defier.net)
 
-## Node Monitoring
-
-- [Validator Signing Check Telegram Bot](http://t.me/crossfirecheckerbot) | [Source](https://github.com/samueltayishere/crossfire-telegram-bot)
-
 ## Documentations
 
-- [Official Documentations](https://crypto.org/docs/) | [Source](https://github.com/crypto-org-chain/chain-docs)
+- [Official Documentations](https://docs.cronos-pos.org/) | [Source](https://github.com/crypto-org-chain/chain-docs)
 
 ## Disclaimer
 
-This is a community-driven repository. It does not reflect the views of Crypto.org. Under no circumstances will Crypto.org be liable for the impacts and loses created by using these projects.
+This is a community-driven repository. It does not reflect the views of Cronos POS Chain. Under no circumstances will Cronos POS Chain be liable for the impacts and losses created by using these projects.
